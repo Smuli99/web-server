@@ -1,0 +1,25 @@
+This is project where i build a web server from scratch via Rust.
+Purpose of this project is to learn Rust and to also create a server
+where i can put my portfolio.
+
+
+Things to figure out:
+
+  What is a server?
+    - Servers are hardware or software devices that provide resources to
+      other computers (called clients) over a network
+    - One way to look at servers are like services in a restaurant.
+      Waiter comes in (server) and asks if you need anything, you (client)
+      ask for something (request) and then the waiters gets it (response).
+
+  What is a web server?
+    - Web server gives you access to websites.
+    - If you type a address or use a link, you're device send a request to
+      that address and the server responses if it finds it.
+
+  What are their defferences?
+  What are the conponents that make a web server?
+  What i need to code to make a web server?
+  
+  After that i can start codind my own web server and try to find
+  how to do this with Rust.
